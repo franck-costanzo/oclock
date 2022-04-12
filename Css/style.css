@@ -123,3 +123,9 @@ button:focus {
     border-radius: 50px;
     padding: 0.25em;
 }
+
+#gitLink {
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+}

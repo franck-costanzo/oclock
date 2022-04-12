@@ -8,7 +8,7 @@
     <script src="./Js/script.js"></script>
     <title>oClock</title>
 </head>
-<body class="d-flex flex-column justify-content-center align-items-center w-100">
+<body>
     <section class="myClock">
         <div class='time' id="clock"></div>
 
@@ -19,6 +19,6 @@
             <button class="btn btn-outline-dark rounded-pill clockButton" id="alarmClock">Réveil</button>            
         </div>
     </section>
-    <a href=""></a>
+    <a href="https://github.com/franck-costanzo/oclock" id="gitLink" target="blank"><img src="./Js/Media/github.svg" sandbox></img></a>
 </body>
 </html>
